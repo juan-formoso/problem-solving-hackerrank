@@ -13,4 +13,8 @@ I'm solving a challenge per day. Currently I'm at 4/104 as you can see in the pr
 
 ## What can you do here?
 At the paste 'challenges' you can find the code I used for each question. Feel free to use it, copy, study or whatever you want to do! =)
-If you got confused by something I did DM me on my [twitter](https://twitter.com/Juaan_vf)!
+
+## More
+- I'm using ONLY *Javascript* for these challenges (Since it is my main language at the moment).
+
+- Didn't understand something I did? DM me on my [twitter](https://twitter.com/Juaan_vf)!
