@@ -10,3 +10,12 @@ There are n = 5 elements, two positive, two negative and one zero. Their ratios 
 - 0.400000
 - 0.400000
 - 0.200000 */
+
+function plusMinus(arr) {
+  let positive = arr.filter((number) => number > 0).length / arr.length;
+  let negative = arr.filter((number) => number < 0).length / arr.length;
+  let zeros = arr.filter((number) => number == 0).length / arr.length;
+  return console.log(
+    positive.toFixed(6) + "\n" + negative.toFixed(6) + "\n" + zeros.toFixed(6)
+  );
+}
