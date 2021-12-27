@@ -7,7 +7,7 @@ The day I decided to face my biggest 'villain' in programming: problem solving a
 I'm doing all this not only to evolve my skills but to prove myself (to myself) that I'm capable of doing this. And also to get prepared for a job interview that I'm gonna have soon.
 
 ## Progress
-I'm solving a challenge per day. Currently I'm at 6/104 as you can see in the print below:
+I'm solving a challenge per day. Currently I'm at 7/104 as you can see in the print below:
 
 ![image](https://user-images.githubusercontent.com/85458990/147429795-795dfc61-4960-4525-960e-88289e0eb455.png)
 
