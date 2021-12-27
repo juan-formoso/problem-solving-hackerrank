@@ -9,12 +9,12 @@ I'm doing all this not only to evolve my skills but to prove myself (to myself) 
 ## Progress
 I'm solving a challenge per day. Currently I'm at 6/104 as you can see in the print below:
 
-![image](https://user-images.githubusercontent.com/85458990/147390167-4a8a24c2-d440-45ca-9f0c-721c8a9dbc90.png)
+![image](https://user-images.githubusercontent.com/85458990/147429795-795dfc61-4960-4525-960e-88289e0eb455.png)
 
 ## What can you do here?
 At the paste 'challenges' you can find the code I used for each question. Feel free to use it, copy, study or whatever you want to do! =)
 
 ## More
-- I'm using ONLY *Javascript* for these challenges (Since it is my main language at the moment).
+- I'm using ONLY *Javascript* and *Python* for these challenges (Since they're my main languages at the moment).
 
 - Didn't understand something I did? DM me on my [twitter](https://twitter.com/Juaan_vf)!
