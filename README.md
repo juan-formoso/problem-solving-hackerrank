@@ -7,9 +7,9 @@ The day I decided to face my biggest 'villain' in programming: problem solving a
 I'm doing all this not only to evolve my skills but to prove myself (to myself) that I'm capable of doing this. And also to get prepared for a job interview that I'm gonna have soon.
 
 ## Progress
-I'm solving a challenge per day. Currently I'm at 8/104 and 1/13 in Tests as you can see in the print below:
+I'm solving a challenge per day. Currently I'm at 9/104 and 1/13 in Tests as you can see in the print below:
 
-![image](https://user-images.githubusercontent.com/85458990/147604114-ebff8506-d4fe-462f-878e-80060476bec2.png)
+![image](https://user-images.githubusercontent.com/85458990/147679719-bda531c9-82fc-46a2-81ca-7d98d7e991ab.png)
 
 ## What can you do here?
 At the paste 'challenges' you can find the code I used for each question. Feel free to use it, copy, study or whatever you want to do! =)
