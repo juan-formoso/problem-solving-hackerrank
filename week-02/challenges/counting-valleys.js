@@ -21,7 +21,7 @@ function countingValleys(steps, path) {
   let seaLevel = 0;
   for (let i = 0; i < steps; i += 1) {
     if (path[i] == "D") {
-      seaLevel--;
+      seaLevel -= 1;
     } else {
       if (seaLevel == -1) {
         valleyStatus += 1;
