@@ -1,3 +1,8 @@
+/* Problem output:
+
+Return the maximum sum of the elements in the upper-left quadrant of a square matrix (same number of rows and columns).
+*/
+
 function flippingMatrix(matrix) {
   let n = matrix.length / 2;
   let max = 0;
