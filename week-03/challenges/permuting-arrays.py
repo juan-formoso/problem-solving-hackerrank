@@ -23,8 +23,7 @@ def twoArrays(k, A, B):
   for i in range(len(A)):
     if A[i] + B[i] < k:
       return "NO"
-    
-    return "YES"
+  return "YES"
 
 if __name__ == '__main__':
   fptr = open(os.environ['OUTPUT_PATH'], 'w')
