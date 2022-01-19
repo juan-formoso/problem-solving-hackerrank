@@ -1,0 +1,11 @@
+Variáveis:
+
+Dados necessários:
+
+O que fazer com os dados:
+
+Restrições:
+
+Resultado esperado:
+
+Sequência de passos:
