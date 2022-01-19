@@ -1,11 +1,22 @@
-Variáveis:
+Variáveis: array, subarray
 
-Dados necessários:
+Dados necessários: array
 
-O que fazer com os dados:
+O que fazer com os dados: percorrer o array de inteiros com dois indicadores e subtraí-los para encontrar a diferença entre os elementos. Caso essa diferença seja menor ou igual a 1 adicione o elemento no subarray.
 
-Restrições:
+Restrições: O subarray deve ter no máximo 5 elementos.
 
-Resultado esperado:
+Resultado esperado: a extensão do subarray de elementos.
 
 Sequência de passos:
+
+max = 0
+valor = novo_array(100).fill(0)
+SE a OU []
+  Para Cada valor
+    valor[valor] += 1
+RETORNE valor reduzido
+  indicador >= 1 E
+    valor + valor[indicador -1] > alvo E
+      alvo = valor + valor[indicador - 1]
+  RETORNE alvo
