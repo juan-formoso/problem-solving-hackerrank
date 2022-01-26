@@ -1,0 +1,16 @@
+Variáveis: array, d.
+
+Dados necessários: array, d.
+
+O que fazer com os dados: pegar o primeiro elemento do array e movê-lo para a esquerda, de acordo com o valor de d.
+
+Restrições: os elementos devem ser movidos para a esquerda apenas.
+
+Resultado esperado: array com os elementos movidos para a esquerda.
+
+Sequência de passos:
+
+while d
+  puxa o primeiro elemento de arr para o começo
+  decrementa d
+return arr
