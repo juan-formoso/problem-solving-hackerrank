@@ -8,7 +8,7 @@ I'm doing all this not only to evolve my skills but to prove myself (to myself) 
 ## Progress
 I'm currently at 26/104 and 3/13 in Tests as you can see in the print below:
 
-![image](https://user-images.githubusercontent.com/85458990/153634744-66a50061-7bf6-4083-aa5b-ae3080b4a3ee.png)
+![image](https://user-images.githubusercontent.com/85458990/153635354-1d06a5c9-a940-4c8f-b140-6a2ed3e2d5db.png)
 
 ## What can you do here?
 At the paste 'challenges' you can find the code I used for each question. Feel free to use it, copy, study or whatever you want to do! =)
